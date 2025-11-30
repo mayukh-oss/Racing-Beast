@@ -1,0 +1,5 @@
+# Racing Beast - Python Dependencies
+# Python Version: 3.12.10
+
+# Core game library
+pygame==2.5.2
