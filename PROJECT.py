@@ -147,7 +147,7 @@ shield_active = False
 
 fuel_max = 1000
 fuel = fuel_max
-fuel_decrease_rate = 0.2
+fuel_decrease_rate = 0.5
 fuel_bar_width = 10
 fuel_bar_height = 300
 fuel_bar_color = (0, 255, 0)  # Green
